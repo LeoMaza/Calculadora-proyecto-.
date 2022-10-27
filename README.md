@@ -1,4 +1,4 @@
-# Cacuadora
+# Calcuadora
 
 ## Proyecto en javascript vanilla
 
