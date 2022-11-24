@@ -5,4 +5,4 @@
 - Este trabajo esta realizado poniendo a prueba la programacion orientada a objetos y el uso de clases y constructor.
 - Link al proyecto:
 
-https://github.com/LeoMaza/Calculadora-proyecto-
+https://leomaza.github.io/Calculadora-proyecto-./
